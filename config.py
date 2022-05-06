@@ -1,6 +1,5 @@
 settings = {
     'token': '',
-    # OTYzNDIwMjY5OTMyODU5NDUy.YlV1Cw.hyX0ZMyioxzJC2crdFRvDKH_4LI
     'prefix': '!'
 }
 num_v = ['174', '173', '172', '171', '170', '169', '168', '167', '166', '165']
